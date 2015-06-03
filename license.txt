@@ -1,0 +1,3 @@
+git status --check present status 
+git log --historical change
+git reflog --future change
