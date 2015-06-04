@@ -1,3 +1,4 @@
 git status --check present status 
 git log --historical change
 git reflog --future change
+git push origin master --local master to github master
